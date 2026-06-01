@@ -4,10 +4,7 @@ github: MyatHtetKyaw
 cohort: 1
 role: builder
 skills: ["Cloud", "DevOps", "Test Automation", "CICD", "K8s", "Python"]
-repo: https://github.com/MyatHtetKyaw/Aquarius.git
-x: ---
 linkedin: Myat Htet Kyaw
-website: ---
 ---
 
 Hi! I want to learn more about Vibe Coding. My goal is to build something useful. Excited to be part of the Tour.
